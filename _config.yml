@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Guangyu Wang (王广宇)"
 description: "Undergraduate Student @ Dongbei University of Finance and Economics\n   \nMajoring in Data Science and Big Data Technology"
-repository               : "guangyu-dufe.github.io"
+repository               : "GuangyuDufe/guangyu-dufe.github.io"
+url                      : "https://guangyudufe.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
