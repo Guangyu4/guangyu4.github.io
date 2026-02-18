@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Personal Web: https://guangyu-dufe.github.io
+Personal Web: https://guangyu4.github.io
 
 <!--
 **jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
