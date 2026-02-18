@@ -1,0 +1,105 @@
+/* White theme overrides: clean, minimal */
+
+body {
+  background-color: #fff;
+}
+
+#main {
+  background: #fff;
+  margin-top: 0;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+@media (min-width: 1280px) {
+  #main {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.page__content {
+  max-width: 42em;
+}
+
+.page__content h1,
+.page__content h2 {
+  border-bottom-color: #f0f0f0;
+  padding-bottom: 0.4em;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  font-weight: 600;
+  color: #333;
+}
+
+.page__content h2:first-of-type {
+  margin-top: 0;
+}
+
+.page__content p,
+.page__content li {
+  color: #444;
+  line-height: 1.65;
+}
+
+.page__content a {
+  color: #1a5fb4;
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+.masthead {
+  background: #fff;
+  border-bottom: 1px solid #f0f0f0;
+  box-shadow: 0 1px 0 rgba(0,0,0,.03);
+}
+
+.masthead__menu-item a {
+  color: #555;
+}
+
+.masthead__menu-item a:hover {
+  color: #111;
+}
+
+.sidebar {
+  background: transparent;
+}
+
+.profile_box {
+  background: transparent;
+}
+
+.author__name {
+  color: #333;
+}
+
+.author__urls a,
+.sidebar .author__urls li {
+  color: #555;
+}
+
+.author__urls a:hover {
+  color: #111;
+}
+
+.page__content ul {
+  padding-left: 1.5em;
+}
+
+.page__content .paper-box {
+  border-bottom-color: #f0f0f0;
+  padding: 2rem 0;
+}
+
+.page__content .paper-box:last-child {
+  border-bottom: none;
+}
+
+.page__content .paper-box img {
+  box-shadow: 0 2px 12px rgba(0,0,0,.08);
+  border-radius: 4px;
+}
